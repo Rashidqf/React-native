@@ -1,0 +1,1 @@
+export ItinerariesCard from './itinerariesCard';

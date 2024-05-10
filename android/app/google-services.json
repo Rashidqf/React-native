@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904660569160",
+    "project_id": "sortapp-87a30",
+    "storage_bucket": "sortapp-87a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904660569160:android:617f9d6e7a35b61e83dc7d",
+        "android_client_info": {
+          "package_name": "com.marshtech.sidenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904660569160-d20veuu33v3pc85ub9gbhm5dmo9ruou0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9S5K9BIot72sh3O95svvl0RRe5TrP8Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904660569160-d20veuu33v3pc85ub9gbhm5dmo9ruou0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904660569160-cph9orv2itfbm6ns5re4c14grhiiv41v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marshtech.sidenote",
+                "app_store_id": "6448973329"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

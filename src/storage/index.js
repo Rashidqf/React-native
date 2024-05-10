@@ -1,0 +1,1 @@
+export {StorageOperation} from './asyncStorage';
