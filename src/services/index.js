@@ -1,1 +1,0 @@
-export FirebaseService from './firebaseServices';

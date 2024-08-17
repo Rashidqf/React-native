@@ -1,1 +1,0 @@
-export CategoriesDropdown from './categoriesDropdown'

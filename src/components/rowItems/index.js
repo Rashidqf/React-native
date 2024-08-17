@@ -1,1 +1,2 @@
-export RowItems from './rowItems';
+import RowItems from './rowItems';
+export {RowItems};
